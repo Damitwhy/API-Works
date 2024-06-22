@@ -8,19 +8,19 @@
 function addTwoNumbers(a, b) {
     return a + b;
 }
-console.log(addTwoNumbers(3, 5));
+console.log(addTwoNumbers(45, 5));
 
 // Arrow Function With Parameters
 
 const addTwoNumbers1 = (a, b) => {
     return a + b;
 }
-console.log(addTwoNumbers1(3, 5));
+console.log(addTwoNumbers1(3, 95));
 
 // Single Line Arrow Function With Parameters
 
 const addTwoNumbers2 = (a, b) => a + b;
-console.log(addTwoNumbers2(3, 5));
+console.log(addTwoNumbers2(143, 56));
 
 
 // Implicit Returns
